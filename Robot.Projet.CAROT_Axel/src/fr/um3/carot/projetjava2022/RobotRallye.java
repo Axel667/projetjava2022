@@ -17,6 +17,6 @@ public class RobotRallye {
 	 * les points pour chaque carte indiquent quand l'ordre 
 	 */
 	
-	 //coucou CA VA 
+	 //coucou bipbip
 	
 }
