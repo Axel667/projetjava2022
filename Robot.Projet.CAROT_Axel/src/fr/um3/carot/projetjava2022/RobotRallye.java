@@ -4,7 +4,7 @@ public class RobotRallye {
 	
 	/*idées :
 	 * permettre aux users de choisir leur persos
-	 * choisir le niveau de difficultée de la map avec au choix plusieurs map
+	 * choisir le niveau de difficultée de la map avec au choix plusieurs maps
 	 * poser des drapeaux sur les map 
 	 * chaqeu joueur spone à un endroit définit
 	 * chaque joueur à trois points de vie 
@@ -16,5 +16,7 @@ public class RobotRallye {
 	 * recule 1 (460)
 	 * les points pour chaque carte indiquent quand l'ordre 
 	 */
+	
+	//coucou axel
 	
 }
